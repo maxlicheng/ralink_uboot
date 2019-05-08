@@ -9,4 +9,13 @@ gcc 版本不能高于 3.5.2 ，否则uboot会编译失败
 可在releases中找3.4.2版本的gcc, buildroot-gcc342.tar.bz2
 
 
+1.下载
+```Barsh
+  git clone git clone https://github.com/maxlicheng/ralink_uboot.git
+```
 
+
+2.更新Linux gcc
+```Barsh
+在releases中找3.4.2版本的gcc, buildroot-gcc342.tar.bz2
+```
